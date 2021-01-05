@@ -3,7 +3,7 @@
     * cURL
     * MySQL
     * PDO
-
+   
 * Supported Sources
     * YouTube Video Downloader and Audio Downloader
     * Tiktok Video Downloader (Watermark free) and Music Downloader
@@ -17,6 +17,9 @@
     * Instagram Video Downloader and Photo Downloader
     * Dailymotion Video Downloader
     * Linkedin Video Downloader
+    
+   ![plugin-list](https://github.com/theresaholder/video-downloader/blob/master/assets/img/plugin-list.png?raw=true)
+
     * 9GAG Video Downloader
     * AkıllıTV Video Downloader
     * Bandcamp Music Downloader
